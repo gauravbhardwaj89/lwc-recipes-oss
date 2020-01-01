@@ -1,6 +1,6 @@
 {
     "name": "lwc-recipes-oss",
-    "description": "Config for Heroku Pipelines and Review Apps",
+    "description": "Config for Heroku Pipelines and Review Apps in LWC",
     "repository": "https://github.com/trailheadapps/lwc-recipes-oss",
     "scripts": {},
     "env": {
